@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/jschaefer-io/gulp-tasap#readme",
   "dependencies": {
-    "tasap": "^1.0.3",
+    "tasap": "^1.0.4",
     "through2": "^2.0.3"
   }
 }
