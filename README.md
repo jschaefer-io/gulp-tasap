@@ -15,4 +15,4 @@ gulp.task('views', function buildHTML() {
 });
 ```
 
- See [tsap.js](https://github.com/jschaefer-io/gulp-tasap) for the options.
+ See [tsap.js](https://github.com/jschaefer-io/tasap) for the options.
