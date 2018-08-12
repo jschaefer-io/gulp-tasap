@@ -1,6 +1,6 @@
 {
   "name": "gulp-tasap",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Gulp-Plugin for the tasap.js template engine",
   "main": "index.js",
   "scripts": {
